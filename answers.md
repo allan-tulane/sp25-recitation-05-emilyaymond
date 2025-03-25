@@ -23,7 +23,9 @@ Place all written answers from `recitation-05.md` here for easier grading.
 |  50000 |              56.506 |               62.884 |      4.776 |
 | 100000 |             116.435 |              131.134 |     10.238 |
 
-![](/Users/emilyaymond/Desktop/Screenshot 2025-03-20 at 3.07.05 PM.png)
+<img width="639" alt="Screenshot 2025-03-20 at 3 07 05 PM" src="https://github.com/user-attachments/assets/12439239-75c6-4410-bb0c-53adf3fcc269" />
+
+
 
 Selection sort is not included in this table because it kept messing up the appearance of the table but the complexities can be found below.
  
